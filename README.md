@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Yashwanth!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Yashwanth!&fontSize=40&fontColor=ffffff&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yashwanth%20V%20M&section=header)
 </p>
 
 <h3 align="center">Computer Science Student | Aspiring Full Stack Developer</h3>
