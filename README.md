@@ -4,6 +4,8 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+Web+Development;Java+Enthusiast;Always+Ready+to+Learn)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
 </div>
 
 ## 🙋‍♂️ About Me
@@ -37,15 +39,22 @@ I'm a student passionate about coding and problem-solving. Still learning every 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live Data)
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanthvm06&show_icons=true&theme=tokyonight&hide_border=true" alt="Yashwanth's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### Real-time Statistics from My Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthvm06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashwanthvm06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### Languages I Use (From My Repos)
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthvm06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### My Contribution Activity Graph
+
+[![Yashwanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthvm06&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Yashwanthvm06)
 
 </div>
 
@@ -94,12 +103,16 @@ My journey of learning Data Structures and Algorithms in Java.
 
 <div align="center">
 
-### 📊 Profile Views
+### 👀 Profile Views (Live Counter)
   
-![](https://komarev.com/ghpvc/?username=Yashwanthvm06&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Yashwanthvm06&color=blueviolet&style=for-the-badge)
+
+*This counter increases every time someone visits my profile!*
 
 ---
 
 **💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie**
+
+⭐ **If you like my work, feel free to star my repositories!**
 
 </div>
