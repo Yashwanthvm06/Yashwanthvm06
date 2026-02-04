@@ -1,134 +1,105 @@
-# Hey there! 👋 I'm Yashwanth
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Yashwanth!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+Web+Development;Java+Enthusiast;Always+Ready+to+Learn)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
-## 🙋‍♂️ About Me
-
-I'm a student passionate about coding and problem-solving. Still learning every day and building projects to improve my skills.
-
-- 🌱 Currently learning **React, Node.js, and DSA**
-- 💻 Working with **Java, HTML, CSS, JavaScript**
-- 📚 Improving my problem-solving skills
-- 🎯 Goal: Become a skilled full-stack developer
-- 📫 Reach me at: **yashwanthvm06@gmail.com**
+<h3 align="center">Computer Science Student | Aspiring Full Stack Developer</h3>
 
 ---
 
-## 🛠️ Technologies I Work With
+## 👨‍💻 About Me
 
-### Languages
+- 🎓 Computer Science Student  
+- 🌱 Learning **React, Node.js, DSA**  
+- 💻 Languages: **Java, JavaScript, HTML, CSS**  
+- 🎯 Goal: Full Stack Developer  
+- 📧 Email: **yashwanthvm06@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Currently Learning**
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
----
+**Tools**
 
-## 📊 GitHub Stats (Live Data)
-
-<div align="center">
-
-### Real-time Statistics from My Repositories
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashwanthvm06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### Languages I Use (From My Repos)
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthvm06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-### My Contribution Activity Graph
-
-[![Yashwanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthvm06&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Yashwanthvm06)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yashwanthvm06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake.svg">
-</picture>
-
-*The snake eats my contribution boxes! Updates automatically every 12 hours.*
-
-</div>
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthvm06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 My Projects
+## 🐍 Contribution Snake
 
-### [Online Auction System](https://github.com/Yashwanthvm06/Online-Auction-System)
-A web-based auction platform where buyers can request items from sellers.
-- Built with HTML, CSS, JavaScript
-- Features user authentication and bidding system
-
-### [Portfolio Website](https://github.com/Yashwanthvm06/Portfolio)
-My personal portfolio to showcase my work.
-- Responsive design
-- Clean and simple UI
-- [Live Demo](https://yashwanthvm06.github.io/Portfolio)
-
-### [DSA Practice](https://github.com/Yashwanthvm06/dsa_java)
-My journey of learning Data Structures and Algorithms in Java.
-- Practicing different problem-solving techniques
-- Implementing common algorithms
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## 📈 What I'm Working On
+## 🚀 Projects
 
-- Learning React for frontend development
-- Solving DSA problems regularly
-- Building more full-stack projects
-- Contributing to open source (planning to start soon)
+### 🔹 Online Auction System
+👉 https://github.com/Yashwanthvm06/Online-Auction-System
+
+### 🔹 Portfolio Website
+👉 https://github.com/Yashwanthvm06/Portfolio  
+🌐 Live: https://yashwanthvm06.github.io/Portfolio
+
+### 🔹 DSA Practice
+👉 https://github.com/Yashwanthvm06/dsa_java
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthvm06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthvm06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashwanthvm06.github.io/Portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views (Live Counter)
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Yashwanthvm06&color=blueviolet&style=for-the-badge)
-
-*This counter increases every time someone visits my profile!*
+<p align="center">
+  <a href="mailto:yashwanthvm06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yashwanthvm06">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://yashwanthvm06.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-**💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie**
+## 👀 Profile Views
 
-⭐ **If you like my work, feel free to star my repositories!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashwanthvm06&style=for-the-badge&color=blueviolet"/>
+</p>
 
-</div>
+---
+
+⭐ If you like my work, consider starring my repositories!
