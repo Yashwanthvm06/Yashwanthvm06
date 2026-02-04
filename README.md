@@ -27,6 +27,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -35,9 +36,7 @@
   <img src="https://raw.githubusercontent.com/Yashwanthvm06/Yashwanthvm06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-
 ---
-
 ### 🔗 Connect With Me
 <p align="left">
 <a href="https://github.com/Yashwanthvm06" target="_blank">
