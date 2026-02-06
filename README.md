@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthvm06&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
