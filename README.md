@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yashwanth%20V%20M&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yashwanth%20V%20M&section=header"/>
 </p>
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <h3 align="center">Aspiring Software Developer | Web Developer | Tech Enthusiast</h3>
