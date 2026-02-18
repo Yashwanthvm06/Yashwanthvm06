@@ -42,5 +42,3 @@
 </p>
 
 ---
-
-⭐ If you like my profile, give it a star!
