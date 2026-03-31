@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Web Development Projects  
 - 🌱 I’m currently learning Full Stack Development  
 - 💬 Ask me about HTML, CSS, JavaScript, Python  
-- 📫 How to reach me: yashwanth@example.com  
+- 📫 How to reach me: yashwanthvm06@gmail.com  
 - ⚡ Fun fact: I love solving coding challenges  
 
 ---
